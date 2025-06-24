@@ -11,9 +11,9 @@ namespace Services
     public class ProductService : IProductService
     {
         private readonly IProductRepository iproductRepository;
-        public ProductService(IProductRepository productRepository)
+        public ProductService()
         {
-            iproductRepository = productRepository;
+            iproductRepository = new ProductRepository();
         }
         public void DeleteProduct(Product p)
         {
@@ -35,4 +35,5 @@ namespace Services
         {
             iproductRepository.updateProduct(p);
         }
+    }
 }

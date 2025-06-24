@@ -1,0 +1,18 @@
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.AssemblyInfoInputs.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.AssemblyInfo.cs
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.csproj.CoreCompileInputs.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.sourcelink.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\Repositories Repositories.deps.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\Repositories Repositories.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\Repositories Repositories.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\BusinessObjects.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\DataAccessLayer.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\BusinessObjects.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.csproj.AssemblyReference.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Reposito.DFC82663.Up2Date
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\refint\Repositories Repositories.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\Repositories Repositories.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Repositories Repositories\obj\Debug\net9.0\ref\Repositories Repositories.dll

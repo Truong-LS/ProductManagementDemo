@@ -1,0 +1,33 @@
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\LoginWindow.g.cs
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\App.g.cs
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp_MarkupCompile.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp_MarkupCompile.lref
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.csproj.AssemblyReference.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\WPFApp.exe
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\WPFApp.deps.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\WPFApp.runtimeconfig.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\WPFApp.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\WPFApp.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\BusinessObjects.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\DataAccessLayer.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\Repositories Repositories.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\Services.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\BusinessObjects.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\Services.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\DataAccessLayer.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\bin\Debug\net9.0-windows\Repositories Repositories.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\LoginWindow.baml
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\MainWindow.baml
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.g.resources
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.AssemblyInfoInputs.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.AssemblyInfo.cs
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.csproj.CoreCompileInputs.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.sourcelink.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.csproj.Up2Date
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\refint\WPFApp.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\WPFApp.genruntimeconfig.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\WPFApp\obj\Debug\net9.0-windows\ref\WPFApp.dll

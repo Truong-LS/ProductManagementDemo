@@ -1,0 +1,20 @@
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.AssemblyInfoInputs.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.AssemblyInfo.cs
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.csproj.CoreCompileInputs.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.sourcelink.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\Services.deps.json
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\Services.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\Services.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\BusinessObjects.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\DataAccessLayer.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\Repositories Repositories.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\BusinessObjects.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\Repositories Repositories.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\bin\Debug\net9.0\DataAccessLayer.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.csproj.AssemblyReference.cache
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.csproj.Up2Date
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\refint\Services.dll
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\Services.pdb
+D:\FPTU\Semester_5\PRN212\Lab\Lab LINQ +WPF\ProductManagementDemo\Services\obj\Debug\net9.0\ref\Services.dll

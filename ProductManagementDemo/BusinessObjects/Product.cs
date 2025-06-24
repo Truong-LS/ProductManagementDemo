@@ -15,6 +15,7 @@ namespace BusinessObjects
         public decimal? UnitPrice { get; set; }
         public virtual Category Category { get; set; }
 
+        public Product() { }
         public Product(int id, string name, int catId, short unitInStock, decimal price)
         {
             this.ProductId = id;

@@ -9,9 +9,9 @@ namespace Services
     public class CategoryService : ICategoryService
     {
         private readonly ICategoryRepository iCategoryRepository;
-        public CategoryService(ICategoryRepository categoryRepository)
+        public CategoryService()
         {
-            iCategoryRepository = categoryRepository;
+            iCategoryRepository = new CategoryRepository();
         }
 
         public List<Category> GetCategories()
